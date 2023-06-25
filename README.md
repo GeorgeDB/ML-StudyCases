@@ -9,8 +9,8 @@
 
  </br>
  <ul>
-  <li>strong><italic>environment.yml</italic></strong> → Environment export containing which python libraries/files have been grouped to be used at the Project (possible to import using Python/Conda functions)</li>
-  <li><strong><italic>*.csv</italic></strong> (data files) → Data used to train, validate and test the model; sometimes all the files are grouped inside a data folder to get things more organized; if there are diferente files for train, validate and test, the name of the files will be used to determine the type of the data</li>
-  <li><strong><italic>*.ipynb</italic></strong> → Python Notebook with all the notes, codes, charts, ...  used during the project</li>
+  <li><strong>environment.yml</strong> → Environment export containing which python libraries/files have been grouped to be used at the Project (possible to import using Python/Conda functions)</li>
+  <li><strong>*.csv (data files)</strong> → Data used to train, validate and test the model; sometimes all the files are grouped inside a data folder to get things more organized; if there are diferente files for train, validate and test, the name of the files will be used to determine the type of the data</li>
+  <li><strong>*.ipynb</strong> → Python Notebook with all the notes, codes, charts, ...  used during the project</li>
  </ul>
  </ol>
