@@ -1,5 +1,5 @@
 <h1>ML-StudyCases</h1>
-	Hi, this is the repository with real life cases used as practice and training while I am learning new features and trying to do new cool stuff.</br>
+	This is the repository with real life cases used as practice and training while I am learning new features and trying to do new cool stuff.</br>
 	Feel free to used any of my templates and welcome...<br></br>
  <ol>
     <li>How projects are organized</li>
