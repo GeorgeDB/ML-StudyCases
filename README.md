@@ -3,7 +3,7 @@
 	Feel free to used any of my templates and welcome...<br></br>
  <ol>
     <li>How projects are organized</li>
- </br>Each Project has its own folder containing all the necessary files to train, validate and test the model.
+ </br>Each Project has its own folder containing all the necessary files to train, validate and test the model. These data could aldo be linked directly inside the notebook.
 	Here is a example of the file structure for each project:</br>
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/124641422/248518020-b7e7534b-46f0-4223-845a-388d4009d837.png">
 
